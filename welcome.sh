@@ -1,2 +1,4 @@
-#!/usr/bin/ksh
+!#/usr/bin/sh
+
 echo "Welcome"
+echo "OK"
